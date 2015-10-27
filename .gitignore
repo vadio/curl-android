@@ -9,6 +9,8 @@
 .*.swp
 Debug
 Release
+obj/
+configure.ac.bak
 *.exp
 Makefile
 Makefile.in
